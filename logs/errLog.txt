@@ -1,0 +1,7 @@
+20221201	16:59:09	46aab5b3-6ec9-43bd-96df-12238202db81	TypeError: fsPromises.readFil is not a function
+20221201	23:19:43	64e92742-bd80-4951-8fc2-12a5eb861226	Error: not allowed by CORS
+20221201	23:20:49	590c6d60-c980-40b9-95df-3254dd05beec	Error: not allowed by CORS
+20221201	23:20:51	a3bedefb-9193-4102-889f-f2867d9d21a7	Error: not allowed by CORS
+20221201	23:20:52	6f7519d2-baa9-492d-b1bb-c05df9a7d780	Error: not allowed by CORS
+20221207	00:08:53	d6b5ed1c-2df6-4276-85d9-6eee9ca0d9c2	ReferenceError: docoded is not defined
+20221207	00:09:58	6d2c6e6f-aed2-4e01-8647-68f63edba05e	ReferenceError: docoded is not defined
